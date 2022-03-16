@@ -1,9 +1,4 @@
 ### Hi there 👋
-<!--
-**ucezema/ucezema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - ✨ I'm interested in public health informatics, and digital health in general
 - 🌱 I’m currently learning JavaScript for full-stack/app development
 - 🔭 I currently work in a health agency where I develop electronic data collection tools to improve the quality immunization and disease surveillance data
