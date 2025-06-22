@@ -1,17 +1,29 @@
 ### Hi there 👋
-- ✨ I'm interested in public health informatics, and digital health in general
-- 🔭 I currently work in a health agency where I use R and its diverse packages to automate repeating data wrangling, analytics and visualization processes.
-- 🔭I also develop electronic data collection tools to improve the quality immunization and disease surveillance data
-- 🔭 I am passionate about integrating different data sources, and building data solutions including to extract, wrangle and transform immunization and disease surveillance data, analyse them and create interactive dashboard, to help organize, manage, and share relevant information - with staff and colleagues, and with the public. 
-- ✨ I am currently working on a project that advance this passion and I document my progress in the **ucezema/ensphcda-dataviz** repository.
-- 👯 Building a web-based interative data analytic dashboard with R (Flexdashboard, Shiny, and HTML Widdgets), where specific health program data from different data sources are utilized to improve, in near real-time, evidence-driven decision and data use for action.
-- 💬 Ask me about R, Flexdashboard, Shiny, Tidyverse, HTML Widgets, Leaflet, e-Surveys, XLSForms (ODK, Kobo), public health, etc.
-- - 🌱 Learned HTML, CSS, and  JavaScript to intermediate level
-- 
-- 📫 How to reach me: 
-- 📩 Email: ucezema@yahoo.com, zemadata@gmail.com, uche@zemsys.org 
+A Public Health Informatics Specialist with over 8 years of experience leveraging data science, machine learning, and digital health solutions to address critical public health challenges in outbreak detection, disease surveillance, and health system strengthening. Skilled in predictive modeling, data integration, and system deployment, with a strong focus on scalable digital health solutions in low-resource settings.
+
+
+### Core Expertise:
+
+• Epidemiological Data Analysis & Visualization (R, Python, Power BI)
+• Machine Learning for Outbreak Detection (XGBoost, Random Forests, SVM)
+• Digital Health Systems (Django, PostgreSQL, React Native)
+• Geospatial Analysis (Leaflet.js, GeoJSON)
+• API Development & System Integration (Django DRF, REST APIs)
+• Cloud Deployment (AWS EC2, Docker, SSL, Nginx)
+• Data Governance & Privacy
+• User Training & System Documentation
+
+
+### Selected Projects:
+• Outbreak Detection (2024 - ongoing): Developing ML models for early outbreak detection using SCORE 1 data, integrating predictive frameworks into Nigeria’s national surveillance infrastructure.
+
+• Digital Health Systems: Engineered offline-first mobile apps for remote health facilities, integrating role-based dashboards with React and data pipelines using Django APIs.
+
+• Data Integration & Interoperability: Built geospatial mapping for health worker clock-in using Leaflet.js and GeoJSON, enabling data visualization across PHCs and LGAs.
+
+• Cloud Deployment: Deployed Django-React systems on AWS EC2 with Nginx, SSL, and PostgreSQL, enhancing data security and scalability; Frontend deployment on S3, Cloudfront, and Route 53.
+
+- 📩 Email: ucezema@yahoo.com
 - LikedIn: [https://www.linkedin.com/in/uche-godwin-ezema?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxOrItqFiSx%2BJZJIevD%2ByiA%3D%3D](https://www.linkedin.com/in/uche-godwin-ezema/)
-- Twitter: @ucezema
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
--->
+- Twitter: @uc_ezema
+
